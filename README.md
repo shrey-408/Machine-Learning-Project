@@ -81,11 +81,7 @@ pip install pandas numpy matplotlib
       * [cite\_start]Then, DBSCAN is applied **within each of the KMeans clusters**[cite: 1]. [cite\_start]This local application of DBSCAN is computationally more efficient and effective at identifying noise points and refining the cluster boundaries[cite: 1].
       * [cite\_start]The final output includes the hybrid cluster assignments, where noise points are typically labeled as `-1`[cite: 1].
 
------
 
-## Results
-
-[cite\_start]The notebook generates several plots to visualize the data and the clustering results[cite: 1].
 
 ### Data Visualization
 
